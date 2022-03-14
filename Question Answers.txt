@@ -1,0 +1,3 @@
+Why is alignment off when browser resolution is over 1920x1080?
+
+* You have to set media query with appropriate width.
