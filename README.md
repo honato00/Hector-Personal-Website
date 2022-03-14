@@ -6,5 +6,8 @@
 
 ## Link
 
+- https://honato00.github.io/
 
-## 
+## Tech Stack Used:
+
+- HTML, CSS
